@@ -1,4 +1,4 @@
-# Get Next Destination Using PID Controller Robot
+# Robot Destination Selector Using PID Controller
 
 To achieve this purpose we need to define two nodes:
 
