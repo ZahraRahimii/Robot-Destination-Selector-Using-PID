@@ -1,6 +1,6 @@
 # Robot Destination Selector Using PID Controller
 
-To achieve this purpose we need to define two nodes:
+To achieve this, we need to define two nodes:
 
 ## Mission Node: 
 This node should respond to the GetNextDestination service, so that for each request, it will randomly generate two numbers in the range of -20 to 20 as the next destination x and y.
